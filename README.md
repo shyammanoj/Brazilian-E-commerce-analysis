@@ -1,13 +1,13 @@
 ## 📊 Brazilian E-Commerce Data Analysis (Olist Dataset)
 
 
-📌** Project Overview**
+**📌 Project Overview**
 
 This project analyzes the Brazilian e-commerce dataset provided by Olist to understand customer behavior, sales performance, delivery efficiency, and customer satisfaction.
 
 The objective is to extract actionable business insights using Power BI.
 
-🎯** Business Objectives**
+**🎯Business Objectives**
 
 Analyze customer purchasing behavior
 
@@ -15,7 +15,7 @@ Identify top-performing states and cities
 
 Measure revenue and order trends
 
-🛠️** Tools & Technologies Used**
+**🛠️ Tools & Technologies Used**
 
 Power BI – Data modeling and dashboard visualization
 
@@ -53,7 +53,8 @@ Customer Review Score Analysis
 
 State-wise Revenue Distribution
 
-📈** Dashboard Highlights**
+**📈Dashboard Highlights**
+
 1️⃣ Customer Overview
 
 Total Customers
@@ -96,7 +97,7 @@ Power BI Dashboard (.pbix)
 Dataset (CSV)
 
 
-👤** Author
+### 👤 Author
 
-Shyam Manoj
-Data Analyst | SQL | Power BI | Business Intelligence**
+**Shyam Manoj**
+Data Analyst | SQL | Power BI | Business Intelligence
